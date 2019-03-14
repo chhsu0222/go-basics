@@ -1,2 +1,2 @@
-Some basic go programming tips for future loop-up.
+Some basic go programming tips for future look-up.
 
