@@ -1,2 +1,3 @@
 Using comma ok idiom to check if the channel is closed.
-If the channel is closed, ok would be the zero value of the type sent through the channel.
+If the channel is closed, ok would be 'false' and i would
+be the zero value of the type sent through the channel.
